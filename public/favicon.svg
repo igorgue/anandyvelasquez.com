@@ -1,19 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Sitting cat silhouette -->
   <g fill="#1a1a1a">
-    <!-- Cat body -->
-    <ellipse cx="50" cy="65" rx="25" ry="20"/>
-    <!-- Cat head -->
-    <circle cx="50" cy="40" r="18"/>
-    <!-- Left ear -->
-    <path d="M38 28 L32 10 L45 25 Z"/>
-    <!-- Right ear -->
-    <path d="M62 28 L68 10 L55 25 Z"/>
-    <!-- Eyes -->
-    <circle cx="43" cy="38" r="3"/>
-    <circle cx="57" cy="38" r="3"/>
-    <!-- Nose -->
-    <path d="M50 45 L47 49 L53 49 Z"/>
-    <!-- Tail -->
-    <path d="M75 65 Q90 55 85 40 Q82 35 78 45 Q75 55 75 65"/>
+    <!-- Head with pointed ears -->
+    <path d="M30 25 L35 10 L42 22 Z M50 22 L57 10 L62 25 Z M35 25 Q30 25 30 35 Q30 45 40 45 L50 45 Q60 45 60 35 Q60 25 55 25 Z"/>
+    <!-- Body - plump and rounded -->
+    <ellipse cx="45" cy="60" rx="22" ry="18"/>
+    <!-- Front leg bent, paw on base -->
+    <path d="M35 75 Q35 82 40 82 L45 82 L45 75 Z"/>
+    <!-- Hind leg tucked under -->
+    <ellipse cx="55" cy="72" rx="8" ry="6"/>
+    <!-- Long curved tail - upward then looping -->
+    <path d="M67 55 Q82 50 82 35 Q82 25 75 30 Q72 32 74 38 Q76 44 70 50 Q67 53 67 55"/>
+    <!-- Base line -->
+    <rect x="20" y="82" width="70" height="2"/>
   </g>
 </svg>

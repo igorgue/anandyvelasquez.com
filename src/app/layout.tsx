@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description:
     'Portafolio de Anandy Velasquez, escritora, actriz. Explora su trabajo literario, proyectos artísticos y más.',
   icons: {
-    icon: '/favicon.svg',
+    icon: '/favicon.ico',
   },
 }
 
