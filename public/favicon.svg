@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g fill="#1a1a1a">
+    <!-- Cat body -->
+    <ellipse cx="50" cy="65" rx="25" ry="20"/>
+    <!-- Cat head -->
+    <circle cx="50" cy="40" r="18"/>
+    <!-- Left ear -->
+    <path d="M38 28 L32 10 L45 25 Z"/>
+    <!-- Right ear -->
+    <path d="M62 28 L68 10 L55 25 Z"/>
+    <!-- Eyes -->
+    <circle cx="43" cy="38" r="3"/>
+    <circle cx="57" cy="38" r="3"/>
+    <!-- Nose -->
+    <path d="M50 45 L47 49 L53 49 Z"/>
+    <!-- Tail -->
+    <path d="M75 65 Q90 55 85 40 Q82 35 78 45 Q75 55 75 65"/>
+  </g>
+</svg>
